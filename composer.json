@@ -1,12 +1,12 @@
 {
-    "name": "kynm/hello-ngocson",
+    "name": "ngocson/hello-ngocson",
     "description": "the first composer package",
     "type": "php",
     "license": "aaa",
     "authors": [
         {
-            "name": "kynm",
-            "email": "nguyen.manh.ky@framgia.com"
+            "name": "ngocson",
+            "email": "phamngocson1988@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kynm\\SayHello\\": "src/"
+            "ngocson\\SayHello\\": "src/"
         }
     }
 }
